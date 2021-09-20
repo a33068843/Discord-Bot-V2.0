@@ -5,6 +5,9 @@
   "repository": "https://github.com/a33068843/Discord-Bot-V2.0.git",
   "author": "Benny Jou <a33068843@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
   "devDependencies": {
     "discord-canvas": "^1.4.1",
     "discord.js": "^13.1.0",
